@@ -65,4 +65,4 @@ I built a personal cybersecurity lab to simulate an enterprise environment and p
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/abdou-khadre-c-m/
-Email: ch.marone9@gmail.com
+Email: amaro091@uottawa.ca
