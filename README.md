@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Charles Marone
 
 Computer Engineering student at the University of Ottawa  
-IT Analyst | Cybersecurity Enthusiast  
+IT Analyst | Cybersecurity (SIEM, Splunk, Active Directory)
 
 ---
 
